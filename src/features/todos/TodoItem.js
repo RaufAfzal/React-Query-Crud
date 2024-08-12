@@ -6,8 +6,7 @@ import React from 'react'
 
 
 const TodoItem = ({ todo }) => {
-    console.log(`Todo are ${todo}`)
-
+    
     const queryClient = useQueryClient()
 
     const updateTodoMutation = useMutation(updateTodos, {
@@ -44,6 +43,7 @@ const TodoItem = ({ todo }) => {
         </article>
     )
 }
+// Custom method to handle the re-renders of the component based on prevProps and nextProps
 const areEqual = (prevProps, nextProps) => {
     return prevProps.todo.id === nextProps.todo.id && prevProps.todo.completed === nextProps.todo.completed
 }

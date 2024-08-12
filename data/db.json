@@ -1,0 +1,58 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": "5",
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    },
+    {
+      "id": "7cad",
+      "userId": 1,
+      "title": "How is the weather today!",
+      "completed": true
+    },
+    {
+      "id": "3456",
+      "userId": 1,
+      "title": "Cricket Match",
+      "completed": true
+    },
+    {
+      "id": "0bae",
+      "userId": 1,
+      "title": "Football match",
+      "completed": false
+    },
+    {
+      "id": "2663",
+      "userId": 1,
+      "title": "What happening boy",
+      "completed": false
+    },
+    {
+      "id": "111c",
+      "userId": 1,
+      "title": "Ben Stokes",
+      "completed": false
+    },
+    {
+      "id": "9160",
+      "userId": 1,
+      "title": "Khaba wich sajawa",
+      "completed": false
+    },
+    {
+      "id": "4299",
+      "userId": 1,
+      "title": "Bombastic",
+      "completed": false
+    },
+    {
+      "id": "2400",
+      "userId": 1,
+      "title": "Mery man wich tu",
+      "completed": false
+    }
+  ]
+}
